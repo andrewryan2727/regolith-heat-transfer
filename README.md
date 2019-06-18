@@ -8,6 +8,6 @@ The particle size ranges for each filename are as follows (in cm):
 7c: 0.318-1.588   
 7d: 0.318-1.905   
 7d2: 0.635-1.905  
-monoish: 1.0-3.0   
+geometry_s: 1.0-3.0   
   
 Power law exponents (e.g. -2.5, -3.0, -3.5) are given in the filename.  
