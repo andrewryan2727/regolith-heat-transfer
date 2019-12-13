@@ -1,5 +1,7 @@
 # regolith-heat-transfer
 Supporting data and code for the paper "Full-field modeling of heat transfer in asteroid regolith: Radiative thermal conductivity of polydisperse particulates"
+
+The excel file contains a summary of tests performed and their resulting delta-T values and calculated bulk thermal conductivities. Several of the figures from the paper can be found in here too. 
   
   
 Mesh generation files for netgen have been uploaded as .geo files. Netgen was downloaded with macports. Actual mesh files are available on request but are too large to host here .   
